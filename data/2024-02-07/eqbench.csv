@@ -1,0 +1,91 @@
+"Model","Params (B)",EQ-Bench v2 Score*
+"gpt-4-1106-preview","",86.05
+"gpt-4-0314","",85.73
+"ShinojiResearch/Senku-70B-Full","70",84.89
+"gpt-4-0613","",84.79
+"miqudev/miqu-1-70b","70",82.91
+"Qwen/Qwen1.5-72B-Chat","72",82.81
+"mistral-medium","",82.57
+"Qwen/Qwen-72B-Chat","72",80.7
+"cognitivecomputations/MegaDolphin-120b","120",80.21
+"cognitivecomputations/dolphin-2.2-70b","70",79.6
+"moreh/MoMo-72B-lora-1.8.7-DPO","72",78.75
+"DiscoResearch/DiscoLM-120b","120",78.48
+"migtissera/Tess-XL-v1.0","120",78.46
+"deepseek-ai/deepseek-llm-67b-chat","67",77.53
+"vilm/Quyen-Pro-Max-v0.1","72",77.16
+"allenai/tulu-2-dpo-70b","70",76.63
+"alpindale/goliath-120b","120",76.09
+"cognitivecomputations/dolphin-2_2-yi-34b","34",75.52
+"gemini-pro","",75.08
+"Qwen/Qwen1.5-14B-Chat","14",74.99
+"mlabonne/NeuralBeagle14-7B","7",74.79
+"mlabonne/Beagle14-7B","7",74.45
+"mlabonne/NeuralMarcoro14-7B","7",74.15
+"zyh3826/GML-Mistral-merged-v1","7",74.01
+"rishiraj/meow","10.7",73.94
+"berkeley-nest/Starling-LM-7B-alpha","7",73.9
+"migtissera/SynthIA-70B-v1.5","70",73.71
+"Yhyu13/LMCocktail-10.7B-v1","10.7",73.67
+"meta-llama/Llama-2-70b-chat-hf","70",73.59
+"Weyaxi/SauerkrautLM-UNA-SOLAR-Instruct","10.7",73.56
+"upstage/SOLAR-10.7B-Instruct-v1.0","10.7",73.53
+"macadeliccc/SOLAR-10.7b-Instruct-dpo","10.7",73.21
+"NousResearch/Nous-Hermes-2-Mixtral-8x7B-SFT","8x7 MoE",72.91
+"macadeliccc/laser-dolphin-mixtral-2x7b-GGUF","2x7 MoE",72.72
+"cloudyu/Mixtral_34Bx2_MoE_60B","34x2 MoE",72.69
+"NousResearch/Nous-Hermes-2-Yi-34B-GGUF","34",72.68
+"openchat/openchat-3.5-1210","7",72.52
+"mistralai/Mixtral-8x7B-Instruct-v0.1","8x7 MoE",72.37
+"openchat/openchat_3.5","7",72.18
+"cognitivecomputations/laserxtral","4x7 MoE",71.96
+"gpt-3.5-turbo-1106","",71.74
+"madatnlp/marcoroni-7b-v3-safetensor","7",71.68
+"01-ai/Yi-34B-Chat","34",71.62
+"WizardLM/WizardLM-70B-V1.0","70",71.28
+"gpt-3.5-turbo-0301","",70.67
+"jondurbin/nontoxic-bagel-34b-v0.2","34",70.21
+"cognitivecomputations/dolphin-2.2.1-mistral-7b","7",69.92
+"gpt-3.5-turbo-0613","",69.35
+"mlabonne/Beyonder-4x7B-v2","4x7 MoE",69.23
+"Toten5/Marcoroni-neural-chat-7B-v2","7",68.54
+"NousResearch/Nous-Capybara-34B","34",68.47
+"mistralai/Mistral-7B-Instruct-v0.2","7",68.18
+"lmsys/vicuna-13b-v1.5","13",67.39
+"lmsys/vicuna-33b-v1.3","33",67.07
+"teknium/OpenHermes-2.5-Mistral-7B","7",66.89
+"Open-Orca/Mistral-7B-OpenOrca","7",66.55
+"jondurbin/bagel-34b-v0.2","34",66.07
+"mlabonne/NeuralHermes-2.5-Mistral-7B","7",65.86
+"Intel/neural-chat-7b-v3-1","7",64.77
+"YeungNLP/firefly-mixtral-8x7b","8x7 MoE",64.36
+"ValiantLabs/ShiningValiant","70",64.21
+"WizardLM/WizardLM-13B-V1.2","13",63.71
+"Qwen/Qwen-14B-Chat","14",63.47
+"fblgit/una-cybertron-7b-v2-bf16","7",62.83
+"internlm/internlm2-chat-7b","7",62.61
+"01-ai/Yi-6B-Chat","6",61.79
+"serpdotai/sparsetral-16x7B-v2","9",59.9
+"OrionStarAI/Orion-14B-Chat","14",59.71
+"xDAN-AI/xDAN-L1-Chat-RL-v1","7",59.51
+"huggingfaceh4/zephyr-7b-beta","7",58.33
+"rhysjones/phi-2-orange","2.7",56.94
+"huggingfaceh4/zephyr-7b-alpha","7",56.82
+"tiiuae/falcon-180B-chat","180",56.82
+"vince62s/phi-2-psy","2.7",56.44
+"mlabonne/phixtral-2x2_8","2x2.7 MoE",54.58
+"lxuechen/phi-2-dpo","2.7",54.42
+"Qwen/Qwen1.5-7B-Chat","7",54.41
+"mistralai/mistral-7b-instruct-v0.1","7",52.15
+"Qwen/Qwen-7B-Chat","7",50.11
+"meta-llama/Llama-2-13b-chat-hf","13",49.12
+"NousResearch/Llama-2-7b-chat-hf","7",36.32
+"timdettmers/guanaco-33b-merged","33",36.11
+"NousResearch/Nous-Capybara-7B-V1","7",34.37
+"Qwen/Qwen-1_8B-Chat","1.8",30
+"Qwen/Qwen1.5-4B-Chat","4",28.75
+"microsoft/phi-2","2.7",27.6
+"lmsys/vicuna-7b-v1.1","7",26.12
+"Qwen/Qwen1.5-1.8B-Chat","1.8",24.12
+"TheBloke/koala-7B-HF","7",21.54
+"stabilityai/stablelm-2-zephyr-1_6b","1.6",15.04
