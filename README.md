@@ -1,2 +1,1 @@
-# benchmark-correlations
-Calculating correlations between LLM benchmarks
+![](/results/arena-eqbench-mtbench.png)
