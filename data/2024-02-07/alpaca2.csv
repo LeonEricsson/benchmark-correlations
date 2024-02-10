@@ -1,0 +1,114 @@
+"Model","Alpaca WR",Length
+"GPT-4 1106 Preview","50.00%",2049
+"Snorkel (Mistral-PairRM-DPO+best-of-16)","34.86%",2616
+"PairRM 0.4B+Yi-34B-Chat (best-of-16)","31.24%",2195
+"Snorkel (Mistral-PairRM-DPO)","30.22%",2736
+"Yi 34B Chat ","29.66%",2123
+"Qwen1.5 72B Chat","26.50%",1549
+"GPT-4","23.58%",1365
+"GPT-4 0314","22.07%",1371
+"Mistral Medium","21.86%",1500
+"XwinLM 70b V0.1","21.81%",1775
+"InternLM2 Chat 20B","21.75%",2373
+"Evo v2 7B","20.83%",1754
+"PairRM 0.4B+Tulu 2+DPO 70B (best-of-16) ","18.64%",1607
+"Mixtral 8x7B Instruct v0.1","18.26%",1465
+"XwinLM 13b V0.1 ","17.43%",1894
+"Claude 2 ","17.19%",1069
+"Claude ","16.99%",1082
+"Gemini Pro ","16.85%",1315
+"Claude Instant 1.2 ","16.13%",1112
+"Tulu 2 DPO 70B ","15.98%",1418
+"GPT-4 0613 ","15.76%",1140
+"Claude 2.1","15.73%",1096
+"Evo 7B","15.58%",1774
+"Mistral 7B v0.2","14.72%",1676
+"WizardLM 70B v1.0","14.38%",1545
+"Starling LM 7B alpha","14.25%",1895
+"GPT 3.5 Turbo 0613","14.13%",1328
+"LLaMA2 Chat 70B","13.87%",1790
+"UltraLM 13B V2.0 (best-of-16)","13.85%",1720
+"PairRM 0.4B+Tulu 2+DPO 13B (best-of-16)","13.83%",1454
+"LMCocktail-10.7B-v1","13.15%",1203
+"Cohere Command","12.90%",1983
+"PairRM 0.4B+Zephyr 7B Beta (best-of-16)","12.84%",1487
+"Vicuna 33B v1.3","12.71%",1479
+"DEITA 7B v1.0","12.65%",1417
+"DeepSeek LLM 67B Chat","12.09%",1151
+"WizardLM 13B V1.2","12.03%",1635
+"UltraLM 13B (best-of-16)","11.31%",1980
+"XwinLM 7b V0.1","11.25%",1894
+"WizardLM 13B V1.1","11.23%",1525
+"CausalLM-14B","11.15%",1391
+"OpenChat V3.1 13B","11.08%",1484
+"Zephyr 7B Beta","10.99%",1444
+"CUT 13B","10.78%",1637
+"OpenHermes-2.5-Mistral 7B","10.34%",1107
+"Humpback LLaMa2 70B","10.12%",1107
+"Tulu 2 DPO 13B","10.12%",1614
+"GPT 3.5 Turbo 0301","9.62%",827
+"OpenChat V2-W 13B","9.62%",1566
+"Humpback LLaMa 65B","9.43%",1232
+"airoboros 65B","9.39%",1512
+"GPT 3.5 Turbo 1106","9.18%",796
+"airoboros 33B","9.05%",1514
+"Dolphin 2.2.1 Mistral 7B","9.04%",1130
+"OpenBuddy-LLaMA-65B-v8","8.77%",1162
+"GPT-3.5","8.56%",1018
+"OpenChat V2 13B","8.44%",1564
+"Zephyr 7B Alpha","8.35%",1302
+"Tulu 2 DPO 7B","8.20%",1663
+"OpenBudddy-LLaMA2-70B-v10.1","8.10%",1077
+"OpenChat-13B","8.02%",1632
+"JinaChat","7.79%",676
+"Phi-2 DPO","7.76%",1687
+"LLaMA2 Chat 13B","7.70%",1513
+"LLaMA2 Chat 7B Evol70k-NEFT","7.60%",1612
+"UltraLM 13B V2.0","7.50%",1399
+"Qwen 14B Chat","7.50%",1013
+"OpenChat8192-13B","7.47%",1664
+"Claude2 Alpaca 13B","7.44%",1127
+"OpenCoderPlus-15B","7.41%",1628
+"Recycled WizardLM 7B V2.0","7.34%",1583
+"Vicuna 13B v1.3","7.14%",1132
+"Guanaco 65B","6.86%",1249
+"Vicuna 13B v1.5","6.72%",1061
+"Recycled WizardLM 7B V1.0","6.63%",1494
+"MiniChat 1.5 3B","6.55%",1545
+"PlatoLM 7B","6.31%",1344
+"LLaMA 33B OASST RLHF","6.30%",1079
+"OpenBudddy-LLaMA2-13B-v11.1","6.17%",1057
+"OpenBuddy-LLaMA-30B-v7.1","6.13%",968
+"OpenBuddy-Falcon-40B-v9","5.96%",1089
+"WizardLM 13B","5.88%",985
+"Vicuna 13B","5.83%",1037
+"Minotaur 13B","5.73%",881
+"Nous Hermes 13B","5.41%",844
+"UltraLM 13B","5.07%",1087
+"Guanaco 33B","5.00%",1311
+"LLaMA2 Chat 7B","4.96%",1479
+"Vicuna 7B v1.5","4.80%",1083
+"LLaMA 33B OASST SFT","4.77%",748
+"Vicuna 7B v1.3","4.64%",1110
+"Baize-v2 13B","4.59%",930
+"Vicuna 7B","4.16%",1044
+"Alpaca Farm PPO Human 7B","4.10%",803
+"Phi-2 SFT","3.98%",1068
+"OpenBuddy-Falcon-7b-v6","3.52%",1152
+"Guanaco 13B","3.47%",1774
+"Alpaca Farm PPO Sim (GPT-4) 7B","3.45%",511
+"Baize-v2 7B","3.40%",1127
+"Falcon 40B Instruct","3.34%",662
+"MiniChat 3B","3.01%",868
+"Guanaco 7B","2.88%",1364
+"ChatGLM2-6B","2.76%",1027
+"Davinci001","2.76%",296
+"Alpaca 7B","2.59%",396
+"Pythia 12B SFT","2.58%",913
+"Phi 2","2.34%",626
+"Falcon 7B Instruct","2.15%",478
+"Baichuan-13B-Chat","1.99%",1727
+"Pythia 12B OASST SFT","1.79%",726
+"solar-10.7b-instruct-v1.0",,
+"falcon-180b-chat",,
+"mistral-7b-instruct-v0.1",,
